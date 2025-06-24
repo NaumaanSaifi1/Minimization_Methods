@@ -2,6 +2,8 @@
 #include <math.h>
 
 #define TOL 0.5e-5
+   
+
 
 typedef struct {
     double x1;
